@@ -1,0 +1,58 @@
+[
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 23 times)\n2. to (used 20 times)\n3. ord (used 14 times)\n4. web (used 14 times)\n5. use (used 13 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/open-reaction-database/ord-data/issues/180\">#180</a>: Establish a formal procedure for review of dataset submission pull requests.\n- <a href=\"https://github.com/open-reaction-database/ord-schema/issues/738\">#738</a>: product_measurement_type for area_percent\n- <a href=\"https://github.com/open-reaction-database/ord-schema/issues/740\">#740</a>: Broken link in documentation\n- <a href=\"https://github.com/open-reaction-database/ord-schema/issues/742\">#742</a>: Guidance on updating an ORD database from a (much) earlier version\n- <a href=\"https://github.com/open-reaction-database/ord-schema/issues/743\">#743</a>: Workup Order",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/open-reaction-database/ord-schema\">open-reaction-database/ord-schema: ★92</a>\n* <a href=\"https://github.com/open-reaction-database/ord-interface\">open-reaction-database/ord-interface: ★19</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/open-reaction-database/ord-data/pull/188\">#188</a>: 39k Pfizer dataset",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/open-reaction-database/ord-schema/commit/47c245da38d6cf1185c8d6bceaefad953666f4b7\">47c245d</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
