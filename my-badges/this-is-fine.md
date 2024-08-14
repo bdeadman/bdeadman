@@ -5,6 +5,7 @@
 Pull requests:
 
 - <a href="https://github.com/open-reaction-database/ord-data/pull/188">#188</a>: 39k Pfizer dataset
+- <a href="https://github.com/open-reaction-database/ord-data/pull/195">#195</a>: Added the two datasets from the surf publication
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
