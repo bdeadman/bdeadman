@@ -4,9 +4,9 @@
 
 My favorite commit message words are:
 
-1. the (used 83 times)
-2. update (used 76 times)
-3. to (used 75 times)
+1. the (used 85 times)
+2. update (used 77 times)
+3. to (used 77 times)
 4. dataset (used 61 times)
 5. added (used 36 times)
 
