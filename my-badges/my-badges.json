@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"the\".",
-    "body": "My favorite commit message words are:\n\n1. the (used 85 times)\n2. update (used 77 times)\n3. to (used 77 times)\n4. dataset (used 61 times)\n5. added (used 37 times)",
+    "body": "My favorite commit message words are:\n\n1. the (used 109 times)\n2. to (used 97 times)\n3. update (used 93 times)\n4. dataset (used 83 times)\n5. added (used 45 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/bdeadman/ord-data/commit/0bf7868b88f0571176bbc3fcf9e271c8b14aa70a\">0bf7868</a>\n- <a href=\"https://github.com/open-reaction-database/ord-data/commit/21daf394e32526cbfe06afafd2367150c5c20f05\">21daf39</a>\n- <a href=\"https://github.com/open-reaction-database/ord-data/commit/e453754de925c3126ad0962f750333a3695da6a9\">e453754</a>\n- <a href=\"https://github.com/open-reaction-database/ord-data/commit/fe1e0f3834df049d505c5a50400598a6e1648484\">fe1e0f3</a>\n- <a href=\"https://github.com/open-reaction-database/ord-data/commit/0bf7868b88f0571176bbc3fcf9e271c8b14aa70a\">0bf7868</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/bdeadman/ord-data/commit/0bf7868b88f0571176bbc3fcf9e271c8b14aa70a\">0bf7868</a>\n- <a href=\"https://github.com/open-reaction-database/ord-data/commit/2a6dff66c02f5d1c9b1589691f845b941c981a7a\">2a6dff6</a>\n- <a href=\"https://github.com/open-reaction-database/ord-data/commit/21daf394e32526cbfe06afafd2367150c5c20f05\">21daf39</a>\n- <a href=\"https://github.com/open-reaction-database/ord-data/commit/e453754de925c3126ad0962f750333a3695da6a9\">e453754</a>\n- <a href=\"https://github.com/open-reaction-database/ord-data/commit/fe1e0f3834df049d505c5a50400598a6e1648484\">fe1e0f3</a>\n- <a href=\"https://github.com/open-reaction-database/ord-data/commit/0bf7868b88f0571176bbc3fcf9e271c8b14aa70a\">0bf7868</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
