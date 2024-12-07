@@ -1,14 +1,14 @@
-<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;*&quot;." title="My favorite word is &quot;*&quot;." width="128">
-<strong>My favorite word is &quot;*&quot;.</strong>
+<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="128">
+<strong>My favorite word is &quot;update&quot;.</strong>
 <br><br>
 
 My favorite commit message words are:
 
-1. * (used 350 times)
-2. update (used 149 times)
-3. dataset (used 131 times)
-4. submission (used 80 times)
-5. - (used 78 times)
+1. update (used 149 times)
+2. dataset (used 131 times)
+3. submission (used 80 times)
+4. added (used 64 times)
+5. co-authored-by: (used 56 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

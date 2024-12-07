@@ -9,8 +9,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"*\".",
-    "body": "My favorite commit message words are:\n\n1. * (used 350 times)\n2. update (used 149 times)\n3. dataset (used 131 times)\n4. submission (used 80 times)\n5. - (used 78 times)",
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 149 times)\n2. dataset (used 131 times)\n3. submission (used 80 times)\n4. added (used 64 times)\n5. co-authored-by: (used 56 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
