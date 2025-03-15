@@ -24,7 +24,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/open-reaction-database/ord-data/issues/180\">#180</a>: Establish a formal procedure for review of dataset submission pull requests.\n- <a href=\"https://github.com/open-reaction-database/ord-schema/issues/742\">#742</a>: Guidance on updating an ORD database from a (much) earlier version\n- <a href=\"https://github.com/open-reaction-database/ord-schema/issues/743\">#743</a>: Workup Order\n- <a href=\"https://github.com/open-reaction-database/ord-schema/issues/740\">#740</a>: Broken link in documentation\n- <a href=\"https://github.com/my-badges/my-badges/issues/69\">#69</a>: Would achievements related to a specific repo be possible and/or allowed?\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/open-reaction-database/ord-data/issues/180\">#180</a>: Establish a formal procedure for review of dataset submission pull requests.\n- <a href=\"https://github.com/open-reaction-database/ord-schema/issues/742\">#742</a>: Guidance on updating an ORD database from a (much) earlier version\n- <a href=\"https://github.com/open-reaction-database/ord-schema/issues/743\">#743</a>: Workup Order\n- <a href=\"https://github.com/open-reaction-database/ord-schema/issues/766\">#766</a>: Subset type for Reaction Identifier\n- <a href=\"https://github.com/open-reaction-database/ord-schema/issues/740\">#740</a>: Broken link in documentation\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
