@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. dataset (used 144 times)
 3. submission (used 88 times)
 4. added (used 71 times)
-5. co-authored-by: (used 62 times)
+5. co-authored-by: (used 64 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
