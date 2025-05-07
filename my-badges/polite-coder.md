@@ -8,7 +8,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/open-reaction-database/ord-schema/issues/742">#742</a>: Guidance on updating an ORD database from a (much) earlier version
 - <a href="https://github.com/open-reaction-database/ord-schema/issues/743">#743</a>: Workup Order
 - <a href="https://github.com/open-reaction-database/ord-schema/issues/766">#766</a>: Subset type for Reaction Identifier
-- <a href="https://github.com/open-reaction-database/ord-schema/issues/740">#740</a>: Broken link in documentation
+- <a href="https://github.com/open-reaction-database/ord-schema/issues/772">#772</a>: Add generic feature types to more parts of the schema (e.g. setup)
 
  And many more...
 
