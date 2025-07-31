@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 176 times)\n2. dataset (used 157 times)\n3. submission (used 96 times)\n4. added (used 73 times)\n5. co-authored-by: (used 68 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 182 times)\n2. dataset (used 159 times)\n3. submission (used 98 times)\n4. added (used 73 times)\n5. co-authored-by: (used 72 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/open-reaction-database/ord-schema\">open-reaction-database/ord-schema: ★103</a>\n* <a href=\"https://github.com/open-reaction-database/ord-interface\">open-reaction-database/ord-interface: ★21</a>\n* <a href=\"https://github.com/open-reaction-database/ord-app\">open-reaction-database/ord-app: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/open-reaction-database/ord-schema\">open-reaction-database/ord-schema: ★104</a>\n* <a href=\"https://github.com/open-reaction-database/ord-interface\">open-reaction-database/ord-interface: ★22</a>\n* <a href=\"https://github.com/open-reaction-database/ord-app\">open-reaction-database/ord-app: ★4</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
