@@ -35,13 +35,6 @@
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
-    "id": "this-is-fine",
-    "tier": 0,
-    "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/open-reaction-database/ord-data/pull/196\">#196</a>: 1440 suzuki rxns\n- <a href=\"https://github.com/open-reaction-database/ord-data/pull/202\">#202</a>: Miniaturised Suzuki couplings, reductive aminations, and N-alkylations",
-    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
-  },
-  {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
