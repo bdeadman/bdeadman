@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/open-reaction-database/ord-schema">open-reaction-database/ord-schema: ★108</a>
+* <a href="https://github.com/open-reaction-database/ord-schema">open-reaction-database/ord-schema: ★109</a>
 * <a href="https://github.com/open-reaction-database/ord-interface">open-reaction-database/ord-interface: ★23</a>
 * <a href="https://github.com/open-reaction-database/ord-app">open-reaction-database/ord-app: ★5</a>
 
