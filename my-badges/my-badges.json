@@ -61,12 +61,5 @@
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/open-reaction-database/ord-schema/commit/adbe5c9e4047bbe21cc17d9253b47c6172651c5e\"><strong>a</strong>dbe5c9e4047bbe21cc17d9253b47c6172651c5e</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "pr-collaboration-5",
-    "tier": 1,
-    "desc": "I have participated in pull requests with 5 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/open-reaction-database/ord-data/pull/197\">#197</a>: Dataset from 24Golden paper Fig 7 #194",
-    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
   }
 ]
