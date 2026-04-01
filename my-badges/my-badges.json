@@ -61,5 +61,12 @@
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/open-reaction-database/ord-schema/commit/adbe5c9e4047bbe21cc17d9253b47c6172651c5e\"><strong>a</strong>dbe5c9e4047bbe21cc17d9253b47c6172651c5e</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/open-reaction-database/ord-schema/pull/777\">#777</a>: Update branch from main",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]

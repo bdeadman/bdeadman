@@ -4,8 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/open-reaction-database/ord-data/pull/196">#196</a>: 1440 suzuki rxns
-- <a href="https://github.com/open-reaction-database/ord-data/pull/202">#202</a>: Miniaturised Suzuki couplings, reductive aminations, and N-alkylations
+- <a href="https://github.com/open-reaction-database/ord-schema/pull/777">#777</a>: Update branch from main
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
