@@ -14,6 +14,7 @@ Commits:
 - <a href="https://github.com/open-reaction-database/ord-data/commit/e453754de925c3126ad0962f750333a3695da6a9">e453754</a>
 - <a href="https://github.com/open-reaction-database/ord-data/commit/fe1e0f3834df049d505c5a50400598a6e1648484">fe1e0f3</a>
 - <a href="https://github.com/open-reaction-database/ord-data/commit/0bf7868b88f0571176bbc3fcf9e271c8b14aa70a">0bf7868</a>
+- <a href="https://github.com/open-reaction-database/ord-schema/commit/ff00d9c7a1c8326091aefee476e30690ab1f07f6">ff00d9c</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

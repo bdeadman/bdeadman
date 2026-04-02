@@ -5,6 +5,7 @@
 Pull requests:
 
 - <a href="https://github.com/open-reaction-database/ord-schema/pull/777">#777</a>: Update branch from main
+- <a href="https://github.com/open-reaction-database/ord-schema/pull/768">#768</a>: Documentation updates
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
