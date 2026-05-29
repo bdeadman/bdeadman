@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/open-reaction-database/ord-schema">open-reaction-database/ord-schema: ★110</a>
 * <a href="https://github.com/open-reaction-database/ord-interface">open-reaction-database/ord-interface: ★23</a>
-* <a href="https://github.com/open-reaction-database/ord-app">open-reaction-database/ord-app: ★5</a>
+* <a href="https://github.com/open-reaction-database/ord-app">open-reaction-database/ord-app: ★6</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
