@@ -12,6 +12,7 @@ Commits:
 - <a href="https://github.com/bdeadman/ord-data/commit/fe1e0f3834df049d505c5a50400598a6e1648484">fe1e0f3</a>
 - <a href="https://github.com/bdeadman/ord-data/commit/0bf7868b88f0571176bbc3fcf9e271c8b14aa70a">0bf7868</a>
 - <a href="https://github.com/open-reaction-database/ord-interface/commit/1bf772764732e298243185ef2428809b362b791c">1bf7727</a>
+- <a href="https://github.com/open-reaction-database/ord-data/commit/bfea35af503e83ad3676faadb1f8846accb9c9fc">bfea35a</a>
 - <a href="https://github.com/open-reaction-database/ord-data/commit/e190a1ba76a6153eea14a869498819cc24ac4bda">e190a1b</a>
 - <a href="https://github.com/open-reaction-database/ord-data/commit/f48c1c225bd6c9b693de0c1a17d1b477586d95a6">f48c1c2</a>
 - <a href="https://github.com/open-reaction-database/ord-data/commit/2a6dff66c02f5d1c9b1589691f845b941c981a7a">2a6dff6</a>
